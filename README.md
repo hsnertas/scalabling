@@ -4,7 +4,7 @@
 
 This application can be used to write, save, and delete notes. This NodeJS application uses an Express backend to save and retrieve note data.
 
-## installation
+## Installation
 
 Node is required to run the application. To install the app run the following in the terminal:
 
